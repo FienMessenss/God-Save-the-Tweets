@@ -76,7 +76,7 @@ var dataSet2 = [
   var img = document.createElement('img');
 
   // set the src attribute to the path of the crown image
-  img.src = 'images/crown.png';
+  img.src = 'images/Crown.png';
 
   // position the image on the left side of the screen using CSS
   img.style.position = 'fixed';
