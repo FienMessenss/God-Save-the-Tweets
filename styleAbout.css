@@ -18,7 +18,7 @@
   
 /* Sets the height and background color of the HTML element */
 html {
-	height: 450%;
+	height: 250%;
 	background: #19092d;
 	/* Centers content horizontally and vertically using flexbox */
 	display: flex;
